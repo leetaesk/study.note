@@ -1,1 +1,1 @@
-# study.note
+https://leetaesk.github.io/study.note/
